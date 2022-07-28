@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pilot-chatbot/static/css/main.210f0e54.css",
-    "main.js": "/pilot-chatbot/static/js/main.39331053.js",
-    "static/js/787.057c73d6.chunk.js": "/pilot-chatbot/static/js/787.057c73d6.chunk.js",
-    "static/media/chatbotlogo.jpeg": "/pilot-chatbot/static/media/chatbotlogo.cace093b90ce20d311e7.jpeg",
-    "index.html": "/pilot-chatbot/index.html",
-    "main.210f0e54.css.map": "/pilot-chatbot/static/css/main.210f0e54.css.map",
-    "main.39331053.js.map": "/pilot-chatbot/static/js/main.39331053.js.map",
-    "787.057c73d6.chunk.js.map": "/pilot-chatbot/static/js/787.057c73d6.chunk.js.map"
+    "main.css": "/chatbot-pilot/static/css/main.210f0e54.css",
+    "main.js": "/chatbot-pilot/static/js/main.fc01733f.js",
+    "static/js/787.057c73d6.chunk.js": "/chatbot-pilot/static/js/787.057c73d6.chunk.js",
+    "static/media/chatbotlogo.jpeg": "/chatbot-pilot/static/media/chatbotlogo.cace093b90ce20d311e7.jpeg",
+    "index.html": "/chatbot-pilot/index.html",
+    "main.210f0e54.css.map": "/chatbot-pilot/static/css/main.210f0e54.css.map",
+    "main.fc01733f.js.map": "/chatbot-pilot/static/js/main.fc01733f.js.map",
+    "787.057c73d6.chunk.js.map": "/chatbot-pilot/static/js/787.057c73d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.210f0e54.css",
-    "static/js/main.39331053.js"
+    "static/js/main.fc01733f.js"
   ]
 }
