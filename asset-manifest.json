@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/chatbot-pilot/static/css/main.210f0e54.css",
-    "main.js": "/chatbot-pilot/static/js/main.6683ab08.js",
+    "main.js": "/chatbot-pilot/static/js/main.c3f3db0f.js",
     "static/js/787.057c73d6.chunk.js": "/chatbot-pilot/static/js/787.057c73d6.chunk.js",
     "static/media/chatbotlogo.jpeg": "/chatbot-pilot/static/media/chatbotlogo.cace093b90ce20d311e7.jpeg",
     "index.html": "/chatbot-pilot/index.html",
     "main.210f0e54.css.map": "/chatbot-pilot/static/css/main.210f0e54.css.map",
-    "main.6683ab08.js.map": "/chatbot-pilot/static/js/main.6683ab08.js.map",
+    "main.c3f3db0f.js.map": "/chatbot-pilot/static/js/main.c3f3db0f.js.map",
     "787.057c73d6.chunk.js.map": "/chatbot-pilot/static/js/787.057c73d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.210f0e54.css",
-    "static/js/main.6683ab08.js"
+    "static/js/main.c3f3db0f.js"
   ]
 }
